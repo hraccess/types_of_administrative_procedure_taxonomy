@@ -6,4 +6,3 @@ project = types_of_administrative_procedure_taxonomy
 dependencies[] = features
 dependencies[] = taxonomy
 features[features_api][] = api:1
-features[taxonomy][] = bureaucratic_requirement_type
